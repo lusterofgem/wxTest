@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "type_traits": "cpp",
+        "cstdlib": "cpp",
+        "cmath": "cpp"
+    }
+}
