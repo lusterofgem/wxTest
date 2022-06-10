@@ -4,12 +4,16 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/usr/include/**",
-                "/usr/include/stdlib.h",
-                "/usr/lib/x86_64-linux-gnu/wx/include/gtk3-unicode-3.0/**"
+                // c++
+                "C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/10.3.0/include/c++",
+                // opencv
+                "C:/opencv-4.5.5/build/install/include",
+                // wxWidgets
+                "C:/wxWidgets-3.1.6/include",
+                "C:/wxWidgets-3.1.6/lib/gcc_lib/mswu"
             ],
             "defines": [],
-            "cppStandard": "c++20",
+            "cppStandard": "c++17",
             "intelliSenseMode": "linux-gcc-x64"
         }
     ],
