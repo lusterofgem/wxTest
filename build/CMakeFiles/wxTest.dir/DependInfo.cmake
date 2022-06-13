@@ -13,6 +13,9 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/home/kde/Desktop/wxTest/build/3rdparty/wxWidgets/libs/gl/CMakeFiles/wxgl.dir/DependInfo.cmake"
+  "/home/kde/Desktop/wxTest/build/3rdparty/wxWidgets/libs/core/CMakeFiles/wxcore.dir/DependInfo.cmake"
+  "/home/kde/Desktop/wxTest/build/3rdparty/wxWidgets/libs/base/CMakeFiles/wxbase.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

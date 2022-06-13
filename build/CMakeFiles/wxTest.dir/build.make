@@ -92,6 +92,20 @@ wxTest_EXTERNAL_OBJECTS =
 
 wxTest: CMakeFiles/wxTest.dir/src/main.cpp.o
 wxTest: CMakeFiles/wxTest.dir/build.make
+wxTest: lib/libwx_gtk3u_gl-3.1.so.7.0.0
+wxTest: lib/libwx_gtk3u_core-3.1.so.7.0.0
+wxTest: lib/libwx_baseu-3.1.so.7.0.0
+wxTest: /usr/lib/x86_64-linux-gnu/libSDL2main.a
+wxTest: /usr/lib/x86_64-linux-gnu/libSDL2.so
+wxTest: /usr/lib/x86_64-linux-gnu/libSM.so
+wxTest: /usr/lib/x86_64-linux-gnu/libICE.so
+wxTest: /usr/lib/x86_64-linux-gnu/libX11.so
+wxTest: /usr/lib/x86_64-linux-gnu/libXext.so
+wxTest: /usr/lib/x86_64-linux-gnu/libXtst.so
+wxTest: /usr/lib/x86_64-linux-gnu/libGLU.so
+wxTest: /usr/lib/x86_64-linux-gnu/libGLX.so
+wxTest: /usr/lib/x86_64-linux-gnu/libEGL.so
+wxTest: /usr/lib/x86_64-linux-gnu/libOpenGL.so
 wxTest: CMakeFiles/wxTest.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/kde/Desktop/wxTest/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable wxTest"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/wxTest.dir/link.txt --verbose=$(VERBOSE)

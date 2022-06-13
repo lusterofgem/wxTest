@@ -172,19 +172,20 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
   /usr/include/c++/9/bits/ostream.tcc \
   /usr/include/c++/9/istream \
   /usr/include/c++/9/bits/istream.tcc \
-  /usr/include/wx-3.0/wx/app.h \
-  /usr/include/wx-3.0/wx/event.h \
-  /usr/include/wx-3.0/wx/defs.h \
-  /usr/include/wx-3.0/wx/platform.h \
-  /usr/include/wx-3.0/wx/compiler.h \
-  /usr/lib/x86_64-linux-gnu/wx/include/gtk3-unicode-3.0/wx/setup.h \
-  /usr/include/wx-3.0/wx/chkconf.h \
-  /usr/include/wx-3.0/wx/gtk/chkconf.h \
-  /usr/include/wx-3.0/wx/unix/chkconf.h \
-  /usr/include/wx-3.0/wx/version.h \
-  /usr/include/wx-3.0/wx/cpp.h \
-  /usr/include/wx-3.0/wx/dlimpexp.h \
-  /usr/include/wx-3.0/wx/debug.h \
+  ../3rdparty/wxWidgets/include/wx/app.h \
+  ../3rdparty/wxWidgets/include/wx/event.h \
+  ../3rdparty/wxWidgets/include/wx/defs.h \
+  ../3rdparty/wxWidgets/include/wx/platform.h \
+  ../3rdparty/wxWidgets/include/wx/compiler.h \
+  lib/wx/include/gtk3-unicode-3.1/wx/setup.h \
+  ../3rdparty/wxWidgets/include/wx/chkconf.h \
+  ../3rdparty/wxWidgets/include/wx/gtk/chkconf.h \
+  ../3rdparty/wxWidgets/include/wx/unix/chkconf.h \
+  ../3rdparty/wxWidgets/include/wx/version.h \
+  ../3rdparty/wxWidgets/include/wx/cpp.h \
+  ../3rdparty/wxWidgets/include/wx/dlimpexp.h \
+  ../3rdparty/wxWidgets/include/wx/types.h \
+  ../3rdparty/wxWidgets/include/wx/debug.h \
   /usr/include/assert.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/limits.h \
   /usr/lib/gcc/x86_64-linux-gnu/9/include/syslimits.h \
@@ -195,45 +196,51 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
   /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
   /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
   /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
-  /usr/include/wx-3.0/wx/chartype.h \
-  /usr/include/wx-3.0/wx/windowid.h \
-  /usr/include/wx-3.0/wx/features.h \
-  /usr/include/wx-3.0/wx/object.h \
-  /usr/include/wx-3.0/wx/memory.h \
-  /usr/include/wx-3.0/wx/string.h \
+  ../3rdparty/wxWidgets/include/wx/chartype.h \
+  ../3rdparty/wxWidgets/include/wx/features.h \
+  ../3rdparty/wxWidgets/include/wx/object.h \
+  ../3rdparty/wxWidgets/include/wx/memory.h \
+  ../3rdparty/wxWidgets/include/wx/string.h \
   /usr/include/string.h \
   /usr/include/strings.h \
   /usr/include/c++/9/stdlib.h \
-  /usr/include/wx-3.0/wx/wxcrtbase.h \
-  /usr/include/wx-3.0/wx/strvararg.h \
-  /usr/include/wx-3.0/wx/strconv.h \
-  /usr/include/wx-3.0/wx/buffer.h \
-  /usr/include/wx-3.0/wx/fontenc.h \
-  /usr/include/wx-3.0/wx/unichar.h \
-  /usr/include/wx-3.0/wx/stringimpl.h \
-  /usr/include/wx-3.0/wx/beforestd.h \
-  /usr/include/wx-3.0/wx/afterstd.h \
-  /usr/include/wx-3.0/wx/stringops.h \
-  /usr/include/wx-3.0/wx/iosfwrap.h \
-  /usr/include/wx-3.0/wx/crt.h \
-  /usr/include/wx-3.0/wx/wxcrt.h \
-  /usr/include/wx-3.0/wx/wxcrtvararg.h \
-  /usr/include/wx-3.0/wx/msgout.h \
-  /usr/include/wx-3.0/wx/xti.h \
-  /usr/include/wx-3.0/wx/rtti.h \
-  /usr/include/wx-3.0/wx/flags.h \
-  /usr/include/wx-3.0/wx/xti2.h \
-  /usr/include/wx-3.0/wx/clntdata.h \
-  /usr/include/wx-3.0/wx/hashmap.h \
-  /usr/include/wx-3.0/wx/gdicmn.h \
-  /usr/include/wx-3.0/wx/list.h \
-  /usr/include/wx-3.0/wx/vector.h \
-  /usr/include/wx-3.0/wx/scopeguard.h \
-  /usr/include/wx-3.0/wx/except.h \
-  /usr/include/wx-3.0/wx/meta/movable.h \
-  /usr/include/wx-3.0/wx/meta/pod.h \
-  /usr/include/wx-3.0/wx/meta/if.h \
-  /usr/include/wx-3.0/wx/math.h \
+  ../3rdparty/wxWidgets/include/wx/wxcrtbase.h \
+  ../3rdparty/wxWidgets/include/wx/strvararg.h \
+  ../3rdparty/wxWidgets/include/wx/strconv.h \
+  ../3rdparty/wxWidgets/include/wx/buffer.h \
+  ../3rdparty/wxWidgets/include/wx/fontenc.h \
+  ../3rdparty/wxWidgets/include/wx/unichar.h \
+  ../3rdparty/wxWidgets/include/wx/stringimpl.h \
+  ../3rdparty/wxWidgets/include/wx/beforestd.h \
+  ../3rdparty/wxWidgets/include/wx/afterstd.h \
+  /usr/include/c++/9/algorithm \
+  /usr/include/c++/9/utility \
+  /usr/include/c++/9/bits/stl_relops.h \
+  /usr/include/c++/9/bits/stl_algo.h \
+  /usr/include/c++/9/bits/algorithmfwd.h \
+  /usr/include/c++/9/bits/stl_heap.h \
+  /usr/include/c++/9/bits/stl_tempbuf.h \
+  /usr/include/c++/9/bits/stl_construct.h \
+  /usr/include/c++/9/bits/uniform_int_dist.h \
+  /usr/include/c++/9/limits \
+  ../3rdparty/wxWidgets/include/wx/stringops.h \
+  /usr/include/c++/9/functional \
+  /usr/include/c++/9/tuple \
+  /usr/include/c++/9/array \
+  /usr/include/c++/9/bits/uses_allocator.h \
+  /usr/include/c++/9/bits/invoke.h \
+  /usr/include/c++/9/bits/refwrap.h \
+  /usr/include/c++/9/bits/std_function.h \
+  ../3rdparty/wxWidgets/include/wx/iosfwrap.h \
+  ../3rdparty/wxWidgets/include/wx/msgout.h \
+  ../3rdparty/wxWidgets/include/wx/xti.h \
+  ../3rdparty/wxWidgets/include/wx/rtti.h \
+  ../3rdparty/wxWidgets/include/wx/flags.h \
+  ../3rdparty/wxWidgets/include/wx/xti2.h \
+  ../3rdparty/wxWidgets/include/wx/clntdata.h \
+  ../3rdparty/wxWidgets/include/wx/hashmap.h \
+  ../3rdparty/wxWidgets/include/wx/wxcrt.h \
+  ../3rdparty/wxWidgets/include/wx/math.h \
   /usr/include/c++/9/math.h \
   /usr/include/c++/9/cmath \
   /usr/include/math.h \
@@ -246,14 +253,28 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
   /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
   /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
   /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
-  /usr/include/wx-3.0/wx/cursor.h \
-  /usr/include/wx-3.0/wx/gtk/cursor.h \
-  /usr/include/wx-3.0/wx/gdiobj.h \
-  /usr/include/wx-3.0/wx/utils.h \
-  /usr/include/wx-3.0/wx/filefn.h \
-  /usr/include/wx-3.0/wx/arrstr.h \
+  ../3rdparty/wxWidgets/include/wx/gdicmn.h \
+  ../3rdparty/wxWidgets/include/wx/list.h \
+  ../3rdparty/wxWidgets/include/wx/vector.h \
+  ../3rdparty/wxWidgets/include/wx/scopeguard.h \
+  ../3rdparty/wxWidgets/include/wx/except.h \
+  ../3rdparty/wxWidgets/include/wx/meta/movable.h \
+  ../3rdparty/wxWidgets/include/wx/meta/pod.h \
+  ../3rdparty/wxWidgets/include/wx/meta/if.h \
   /usr/include/c++/9/iterator \
   /usr/include/c++/9/bits/stream_iterator.h \
+  ../3rdparty/wxWidgets/include/wx/cursor.h \
+  ../3rdparty/wxWidgets/include/wx/gdiobj.h \
+  ../3rdparty/wxWidgets/include/wx/gtk/cursor.h \
+  ../3rdparty/wxWidgets/include/wx/utils.h \
+  ../3rdparty/wxWidgets/include/wx/filefn.h \
+  ../3rdparty/wxWidgets/include/wx/arrstr.h \
+  ../3rdparty/wxWidgets/include/wx/dynarray.h \
+  /usr/include/c++/9/vector \
+  /usr/include/c++/9/bits/stl_uninitialized.h \
+  /usr/include/c++/9/bits/stl_vector.h \
+  /usr/include/c++/9/bits/stl_bvector.h \
+  /usr/include/c++/9/bits/vector.tcc \
   /usr/include/x86_64-linux-gnu/sys/stat.h \
   /usr/include/x86_64-linux-gnu/bits/stat.h \
   /usr/include/x86_64-linux-gnu/bits/statx.h \
@@ -287,35 +308,35 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
   /usr/include/x86_64-linux-gnu/bits/fcntl-linux.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h \
   /usr/include/linux/falloc.h \
-  /usr/include/wx-3.0/wx/versioninfo.h \
-  /usr/include/wx-3.0/wx/meta/implicitconversion.h \
-  /usr/include/wx-3.0/wx/mousestate.h \
-  /usr/include/wx-3.0/wx/kbdstate.h \
-  /usr/include/wx-3.0/wx/longlong.h \
-  /usr/include/c++/9/limits \
-  /usr/include/wx-3.0/wx/platinfo.h \
-  /usr/include/wx-3.0/wx/dynarray.h \
-  /usr/include/wx-3.0/wx/thread.h \
-  /usr/include/wx-3.0/wx/tracker.h \
-  /usr/include/wx-3.0/wx/typeinfo.h \
-  /usr/include/wx-3.0/wx/any.h \
-  /usr/include/wx-3.0/wx/datetime.h \
-  /usr/include/wx-3.0/wx/anystr.h \
-  /usr/include/wx-3.0/wx/variant.h \
-  /usr/include/wx-3.0/wx/meta/convertible.h \
-  /usr/include/wx-3.0/wx/meta/removeref.h \
-  /usr/include/wx-3.0/wx/eventfilter.h \
-  /usr/include/wx-3.0/wx/build.h \
-  /usr/include/wx-3.0/wx/cmdargs.h \
-  /usr/include/wx-3.0/wx/init.h \
-  /usr/include/wx-3.0/wx/intl.h \
-  /usr/include/wx-3.0/wx/translation.h \
-  /usr/include/wx-3.0/wx/language.h \
-  /usr/include/wx-3.0/wx/scopedptr.h \
-  /usr/include/wx-3.0/wx/checkeddelete.h \
-  /usr/include/wx-3.0/wx/log.h \
-  /usr/include/wx-3.0/wx/generic/logg.h \
-  /usr/include/wx-3.0/wx/unix/app.h \
+  ../3rdparty/wxWidgets/include/wx/versioninfo.h \
+  ../3rdparty/wxWidgets/include/wx/meta/implicitconversion.h \
+  ../3rdparty/wxWidgets/include/wx/mousestate.h \
+  ../3rdparty/wxWidgets/include/wx/kbdstate.h \
+  ../3rdparty/wxWidgets/include/wx/longlong.h \
+  ../3rdparty/wxWidgets/include/wx/platinfo.h \
+  ../3rdparty/wxWidgets/include/wx/thread.h \
+  ../3rdparty/wxWidgets/include/wx/tracker.h \
+  ../3rdparty/wxWidgets/include/wx/typeinfo.h \
+  ../3rdparty/wxWidgets/include/wx/any.h \
+  ../3rdparty/wxWidgets/include/wx/datetime.h \
+  ../3rdparty/wxWidgets/include/wx/anystr.h \
+  ../3rdparty/wxWidgets/include/wx/variant.h \
+  ../3rdparty/wxWidgets/include/wx/meta/convertible.h \
+  ../3rdparty/wxWidgets/include/wx/meta/removeref.h \
+  ../3rdparty/wxWidgets/include/wx/eventfilter.h \
+  ../3rdparty/wxWidgets/include/wx/build.h \
+  ../3rdparty/wxWidgets/include/wx/cmdargs.h \
+  ../3rdparty/wxWidgets/include/wx/init.h \
+  ../3rdparty/wxWidgets/include/wx/intl.h \
+  ../3rdparty/wxWidgets/include/wx/localedefs.h \
+  ../3rdparty/wxWidgets/include/wx/translation.h \
+  ../3rdparty/wxWidgets/include/wx/language.h \
+  ../3rdparty/wxWidgets/include/wx/scopedptr.h \
+  ../3rdparty/wxWidgets/include/wx/checkeddelete.h \
+  ../3rdparty/wxWidgets/include/wx/log.h \
+  ../3rdparty/wxWidgets/include/wx/time.h \
+  ../3rdparty/wxWidgets/include/wx/generic/logg.h \
+  ../3rdparty/wxWidgets/include/wx/unix/app.h \
   /usr/include/signal.h \
   /usr/include/x86_64-linux-gnu/bits/signum.h \
   /usr/include/x86_64-linux-gnu/bits/signum-generic.h \
@@ -337,148 +358,140 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/struct_sigstack.h \
   /usr/include/x86_64-linux-gnu/bits/sigthread.h \
   /usr/include/x86_64-linux-gnu/bits/signal_ext.h \
-  /usr/include/wx-3.0/wx/gtk/app.h \
-  /usr/include/wx-3.0/wx/frame.h \
-  /usr/include/wx-3.0/wx/toplevel.h \
-  /usr/include/wx-3.0/wx/nonownedwnd.h \
-  /usr/include/wx-3.0/wx/window.h \
-  /usr/include/wx-3.0/wx/font.h \
-  /usr/include/wx-3.0/wx/gtk/font.h \
-  /usr/include/wx-3.0/wx/colour.h \
-  /usr/include/wx-3.0/wx/gtk/colour.h \
-  /usr/include/wx-3.0/wx/region.h \
-  /usr/include/wx-3.0/wx/gtk/region.h \
-  /usr/include/wx-3.0/wx/validate.h \
-  /usr/include/wx-3.0/wx/palette.h \
-  /usr/include/wx-3.0/wx/generic/paletteg.h \
-  /usr/include/wx-3.0/wx/accel.h \
-  /usr/include/wx-3.0/wx/gtk/accel.h \
-  /usr/include/wx-3.0/wx/generic/accel.h \
-  /usr/include/wx-3.0/wx/gtk/window.h \
-  /usr/include/wx-3.0/wx/gtk/nonownedwnd.h \
-  /usr/include/wx-3.0/wx/iconbndl.h \
-  /usr/include/wx-3.0/wx/icon.h \
-  /usr/include/wx-3.0/wx/iconloc.h \
-  /usr/include/wx-3.0/wx/generic/icon.h \
-  /usr/include/wx-3.0/wx/bitmap.h \
-  /usr/include/wx-3.0/wx/image.h \
-  /usr/include/wx-3.0/wx/stream.h \
-  /usr/include/wx-3.0/wx/imagbmp.h \
-  /usr/include/wx-3.0/wx/imagpng.h \
-  /usr/include/wx-3.0/wx/imaggif.h \
-  /usr/include/wx-3.0/wx/imagpcx.h \
-  /usr/include/wx-3.0/wx/imagjpeg.h \
-  /usr/include/wx-3.0/wx/imagtga.h \
-  /usr/include/wx-3.0/wx/imagtiff.h \
-  /usr/include/wx-3.0/wx/imagpnm.h \
-  /usr/include/wx-3.0/wx/imagxpm.h \
-  /usr/include/wx-3.0/wx/imagiff.h \
-  /usr/include/wx-3.0/wx/gtk/bitmap.h \
-  /usr/include/wx-3.0/wx/weakref.h \
-  /usr/include/wx-3.0/wx/meta/int2type.h \
-  /usr/include/wx-3.0/wx/gtk/toplevel.h \
-  /usr/include/wx-3.0/wx/statusbr.h \
-  /usr/include/wx-3.0/wx/control.h \
-  /usr/include/wx-3.0/wx/gtk/control.h \
-  /usr/include/wx-3.0/wx/generic/statusbr.h \
-  /usr/include/wx-3.0/wx/pen.h \
-  /usr/include/wx-3.0/wx/gtk/pen.h \
-  /usr/include/wx-3.0/wx/gtk/frame.h \
-  /usr/include/wx-3.0/wx/glcanvas.h \
-  /usr/include/wx-3.0/wx/gtk/glcanvas.h \
-  /usr/include/wx-3.0/wx/unix/glx11.h \
-  /usr/include/GL/glx.h \
-  /usr/include/X11/Xlib.h \
-  /usr/include/X11/X.h \
-  /usr/include/X11/Xfuncproto.h \
-  /usr/include/X11/Xosdefs.h \
-  /usr/include/X11/Xutil.h \
-  /usr/include/X11/keysym.h \
-  /usr/include/X11/keysymdef.h \
+  ../3rdparty/wxWidgets/include/wx/gtk/app.h \
+  ../3rdparty/wxWidgets/include/wx/frame.h \
+  ../3rdparty/wxWidgets/include/wx/toplevel.h \
+  ../3rdparty/wxWidgets/include/wx/nonownedwnd.h \
+  ../3rdparty/wxWidgets/include/wx/window.h \
+  ../3rdparty/wxWidgets/include/wx/font.h \
+  ../3rdparty/wxWidgets/include/wx/gtk/font.h \
+  ../3rdparty/wxWidgets/include/wx/colour.h \
+  ../3rdparty/wxWidgets/include/wx/gtk/colour.h \
+  ../3rdparty/wxWidgets/include/wx/region.h \
+  ../3rdparty/wxWidgets/include/wx/gtk/region.h \
+  ../3rdparty/wxWidgets/include/wx/validate.h \
+  ../3rdparty/wxWidgets/include/wx/windowid.h \
+  ../3rdparty/wxWidgets/include/wx/palette.h \
+  ../3rdparty/wxWidgets/include/wx/generic/paletteg.h \
+  ../3rdparty/wxWidgets/include/wx/accel.h \
+  ../3rdparty/wxWidgets/include/wx/gtk/accel.h \
+  ../3rdparty/wxWidgets/include/wx/generic/accel.h \
+  ../3rdparty/wxWidgets/include/wx/gtk/window.h \
+  ../3rdparty/wxWidgets/include/wx/gtk/nonownedwnd.h \
+  ../3rdparty/wxWidgets/include/wx/iconbndl.h \
+  ../3rdparty/wxWidgets/include/wx/icon.h \
+  ../3rdparty/wxWidgets/include/wx/iconloc.h \
+  ../3rdparty/wxWidgets/include/wx/generic/icon.h \
+  ../3rdparty/wxWidgets/include/wx/bitmap.h \
+  ../3rdparty/wxWidgets/include/wx/image.h \
+  ../3rdparty/wxWidgets/include/wx/stream.h \
+  ../3rdparty/wxWidgets/include/wx/imagbmp.h \
+  ../3rdparty/wxWidgets/include/wx/imagpng.h \
+  ../3rdparty/wxWidgets/include/wx/imaggif.h \
+  ../3rdparty/wxWidgets/include/wx/imagpcx.h \
+  ../3rdparty/wxWidgets/include/wx/imagjpeg.h \
+  ../3rdparty/wxWidgets/include/wx/imagtga.h \
+  ../3rdparty/wxWidgets/include/wx/imagtiff.h \
+  ../3rdparty/wxWidgets/include/wx/imagpnm.h \
+  ../3rdparty/wxWidgets/include/wx/imagxpm.h \
+  ../3rdparty/wxWidgets/include/wx/imagiff.h \
+  ../3rdparty/wxWidgets/include/wx/gtk/bitmap.h \
+  ../3rdparty/wxWidgets/include/wx/weakref.h \
+  ../3rdparty/wxWidgets/include/wx/meta/int2type.h \
+  ../3rdparty/wxWidgets/include/wx/gtk/toplevel.h \
+  ../3rdparty/wxWidgets/include/wx/statusbr.h \
+  ../3rdparty/wxWidgets/include/wx/control.h \
+  ../3rdparty/wxWidgets/include/wx/gtk/control.h \
+  ../3rdparty/wxWidgets/include/wx/generic/statusbr.h \
+  ../3rdparty/wxWidgets/include/wx/pen.h \
+  ../3rdparty/wxWidgets/include/wx/peninfobase.h \
+  ../3rdparty/wxWidgets/include/wx/gtk/pen.h \
+  ../3rdparty/wxWidgets/include/wx/gtk/frame.h \
+  ../3rdparty/wxWidgets/include/wx/glcanvas.h \
+  ../3rdparty/wxWidgets/include/wx/gtk/glcanvas.h \
+  ../3rdparty/wxWidgets/include/wx/unix/glegl.h \
   /usr/include/GL/gl.h \
   /usr/include/GL/glext.h \
-  /usr/include/KHR/khrplatform.h \
-  /usr/include/GL/glxext.h \
-  /usr/include/inttypes.h
+  /usr/include/KHR/khrplatform.h
 
 
 /usr/include/KHR/khrplatform.h:
 
 /usr/include/GL/glext.h:
 
-/usr/include/X11/keysym.h:
+../3rdparty/wxWidgets/include/wx/unix/glegl.h:
 
-/usr/include/X11/Xfuncproto.h:
+../3rdparty/wxWidgets/include/wx/gtk/glcanvas.h:
 
-/usr/include/X11/X.h:
+../3rdparty/wxWidgets/include/wx/glcanvas.h:
 
-/usr/include/GL/glx.h:
+../3rdparty/wxWidgets/include/wx/gtk/frame.h:
 
-/usr/include/wx-3.0/wx/gtk/glcanvas.h:
+../3rdparty/wxWidgets/include/wx/gtk/pen.h:
 
-/usr/include/wx-3.0/wx/gtk/frame.h:
+../3rdparty/wxWidgets/include/wx/peninfobase.h:
 
-/usr/include/wx-3.0/wx/gtk/pen.h:
+../3rdparty/wxWidgets/include/wx/gtk/control.h:
 
-/usr/include/wx-3.0/wx/generic/statusbr.h:
+../3rdparty/wxWidgets/include/wx/gtk/toplevel.h:
 
-/usr/include/wx-3.0/wx/control.h:
+../3rdparty/wxWidgets/include/wx/meta/int2type.h:
 
-/usr/include/wx-3.0/wx/statusbr.h:
+../3rdparty/wxWidgets/include/wx/imagxpm.h:
 
-/usr/include/wx-3.0/wx/imagiff.h:
+../3rdparty/wxWidgets/include/wx/imagtiff.h:
 
-/usr/include/wx-3.0/wx/imagxpm.h:
+../3rdparty/wxWidgets/include/wx/imagtga.h:
 
-/usr/include/wx-3.0/wx/imagtga.h:
+../3rdparty/wxWidgets/include/wx/imagjpeg.h:
 
-/usr/include/wx-3.0/wx/imagpcx.h:
+../3rdparty/wxWidgets/include/wx/imagpcx.h:
 
-/usr/include/wx-3.0/wx/imaggif.h:
+../3rdparty/wxWidgets/include/wx/imaggif.h:
 
-/usr/include/wx-3.0/wx/imagbmp.h:
+../3rdparty/wxWidgets/include/wx/stream.h:
 
-/usr/include/wx-3.0/wx/image.h:
+../3rdparty/wxWidgets/include/wx/bitmap.h:
 
-/usr/include/wx-3.0/wx/iconloc.h:
+../3rdparty/wxWidgets/include/wx/icon.h:
 
-/usr/include/wx-3.0/wx/icon.h:
+../3rdparty/wxWidgets/include/wx/gtk/window.h:
 
-/usr/include/wx-3.0/wx/gtk/bitmap.h:
+../3rdparty/wxWidgets/include/wx/generic/accel.h:
 
-/usr/include/wx-3.0/wx/gtk/accel.h:
+../3rdparty/wxWidgets/include/wx/gtk/accel.h:
 
-/usr/include/wx-3.0/wx/accel.h:
+../3rdparty/wxWidgets/include/wx/generic/paletteg.h:
 
-/usr/include/wx-3.0/wx/imagpng.h:
+../3rdparty/wxWidgets/include/wx/palette.h:
 
-/usr/include/wx-3.0/wx/generic/paletteg.h:
+../3rdparty/wxWidgets/include/wx/windowid.h:
 
-/usr/include/wx-3.0/wx/validate.h:
+../3rdparty/wxWidgets/include/wx/validate.h:
 
-/usr/include/wx-3.0/wx/gtk/region.h:
+../3rdparty/wxWidgets/include/wx/gtk/region.h:
 
-/usr/include/wx-3.0/wx/region.h:
+../3rdparty/wxWidgets/include/wx/gtk/colour.h:
 
-/usr/include/wx-3.0/wx/gtk/colour.h:
+../3rdparty/wxWidgets/include/wx/colour.h:
 
-/usr/include/wx-3.0/wx/gtk/nonownedwnd.h:
+../3rdparty/wxWidgets/include/wx/font.h:
 
-/usr/include/wx-3.0/wx/colour.h:
+../3rdparty/wxWidgets/include/wx/toplevel.h:
 
-/usr/include/wx-3.0/wx/gtk/font.h:
-
-/usr/include/wx-3.0/wx/window.h:
+../3rdparty/wxWidgets/include/wx/gtk/app.h:
 
 /usr/include/x86_64-linux-gnu/bits/signal_ext.h:
 
+/usr/include/x86_64-linux-gnu/bits/sigthread.h:
+
 /usr/include/x86_64-linux-gnu/bits/sigstack.h:
+
+/usr/include/x86_64-linux-gnu/sys/ucontext.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/stack_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/sigcontext.h:
-
-/usr/include/x86_64-linux-gnu/bits/sigevent-consts.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/sigevent_t.h:
 
@@ -486,65 +499,45 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/siginfo-consts.h:
 
-/usr/include/wx-3.0/wx/nonownedwnd.h:
-
 /usr/include/x86_64-linux-gnu/bits/ss_flags.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/sig_atomic_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/signum.h:
 
-/usr/include/x86_64-linux-gnu/sys/ucontext.h:
+../3rdparty/wxWidgets/include/wx/time.h:
 
-/usr/include/wx-3.0/wx/unix/app.h:
+../3rdparty/wxWidgets/include/wx/cmdargs.h:
 
-/usr/include/wx-3.0/wx/generic/logg.h:
+../3rdparty/wxWidgets/include/wx/build.h:
 
-/usr/include/wx-3.0/wx/log.h:
+../3rdparty/wxWidgets/include/wx/eventfilter.h:
 
-/usr/include/wx-3.0/wx/checkeddelete.h:
+../3rdparty/wxWidgets/include/wx/anystr.h:
 
-/usr/include/wx-3.0/wx/scopedptr.h:
+../3rdparty/wxWidgets/include/wx/datetime.h:
 
-/usr/include/wx-3.0/wx/init.h:
+../3rdparty/wxWidgets/include/wx/any.h:
 
-/usr/include/wx-3.0/wx/build.h:
+../3rdparty/wxWidgets/include/wx/typeinfo.h:
 
-/usr/include/wx-3.0/wx/eventfilter.h:
+../3rdparty/wxWidgets/include/wx/thread.h:
 
-/usr/include/wx-3.0/wx/meta/removeref.h:
+../3rdparty/wxWidgets/include/wx/platinfo.h:
 
-/usr/include/wx-3.0/wx/meta/convertible.h:
+../3rdparty/wxWidgets/include/wx/kbdstate.h:
 
-/usr/include/wx-3.0/wx/variant.h:
+../3rdparty/wxWidgets/include/wx/meta/implicitconversion.h:
 
-/usr/include/wx-3.0/wx/datetime.h:
-
-/usr/include/wx-3.0/wx/typeinfo.h:
-
-/usr/include/wx-3.0/wx/tracker.h:
-
-/usr/include/wx-3.0/wx/thread.h:
-
-/usr/include/wx-3.0/wx/dynarray.h:
-
-/usr/include/wx-3.0/wx/kbdstate.h:
-
-/usr/include/wx-3.0/wx/bitmap.h:
-
-/usr/include/wx-3.0/wx/mousestate.h:
-
-/usr/include/wx-3.0/wx/meta/implicitconversion.h:
+../3rdparty/wxWidgets/include/wx/generic/icon.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h:
-
-/usr/include/wx-3.0/wx/language.h:
-
-/usr/include/x86_64-linux-gnu/bits/fcntl.h:
 
 /usr/include/fcntl.h:
 
 /usr/include/x86_64-linux-gnu/bits/dirent.h:
+
+../3rdparty/wxWidgets/include/wx/gtk/bitmap.h:
 
 /usr/include/dirent.h:
 
@@ -554,9 +547,7 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/environments.h:
 
-/usr/include/wx-3.0/wx/glcanvas.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/struct_statx.h:
+/usr/include/x86_64-linux-gnu/bits/posix_opt.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_statx_timestamp.h:
 
@@ -572,37 +563,55 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/linux/types.h:
 
+/usr/include/unistd.h:
+
+/usr/include/x86_64-linux-gnu/bits/statx.h:
+
+/usr/include/c++/9/bits/vector.tcc:
+
+/usr/include/c++/9/vector:
+
+../3rdparty/wxWidgets/include/wx/dynarray.h:
+
+../3rdparty/wxWidgets/include/wx/statusbr.h:
+
+/usr/include/linux/stat.h:
+
+../3rdparty/wxWidgets/include/wx/arrstr.h:
+
+../3rdparty/wxWidgets/include/wx/utils.h:
+
+../3rdparty/wxWidgets/include/wx/gdiobj.h:
+
+/usr/include/c++/9/bits/stream_iterator.h:
+
+/usr/include/c++/9/iterator:
+
+../3rdparty/wxWidgets/include/wx/meta/if.h:
+
+../3rdparty/wxWidgets/include/wx/meta/movable.h:
+
 /usr/include/x86_64-linux-gnu/bits/waitstatus.h:
 
 /usr/include/x86_64-linux-gnu/bits/waitflags.h:
 
-/usr/include/wx-3.0/wx/chartype.h:
+/usr/include/c++/9/bits/stl_bvector.h:
 
 /usr/include/stdlib.h:
 
+../3rdparty/wxWidgets/include/wx/weakref.h:
+
 /usr/include/c++/9/bits/postypes.h:
 
-/usr/include/c++/9/bits/stl_function.h:
-
-/usr/include/wx-3.0/wx/frame.h:
-
 /usr/include/errno.h:
-
-/usr/include/wx-3.0/wx/features.h:
 
 /usr/include/c++/9/bits/ostream_insert.h:
 
 /usr/include/alloca.h:
 
-/usr/include/x86_64-linux-gnu/asm/posix_types.h:
-
-/usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h:
-
 /usr/include/x86_64-linux-gnu/bits/locale.h:
 
 /usr/include/c++/9/debug/assertions.h:
-
-/usr/include/wx-3.0/wx/toplevel.h:
 
 /usr/include/c++/9/bits/locale_classes.h:
 
@@ -616,11 +625,13 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:
 
-/usr/include/x86_64-linux-gnu/bits/posix_opt.h:
-
-/usr/include/wx-3.0/wx/math.h:
+../3rdparty/wxWidgets/include/wx/variant.h:
 
 /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h:
+
+lib/wx/include/gtk3-unicode-3.1/wx/setup.h:
+
+../3rdparty/wxWidgets/include/wx/log.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/9/include/limits.h:
 
@@ -632,23 +643,17 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/c++/9/bits/cpp_type_traits.h:
 
-/usr/include/wx-3.0/wx/pen.h:
-
 /usr/include/c++/9/bits/locale_facets.tcc:
-
-/usr/include/wx-3.0/wx/longlong.h:
 
 /usr/include/c++/9/ext/alloc_traits.h:
 
 /usr/include/x86_64-linux-gnu/bits/floatn.h:
 
-/usr/include/wx-3.0/wx/dlimpexp.h:
-
 /usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
 
 /usr/include/c++/9/ext/string_conversions.h:
 
-/usr/include/wx-3.0/wx/utils.h:
+../3rdparty/wxWidgets/include/wx/buffer.h:
 
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:
 
@@ -656,29 +661,37 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/c++/9/bits/hash_bytes.h:
 
-/usr/include/wx-3.0/wx/buffer.h:
+/usr/include/x86_64-linux-gnu/asm/posix_types.h:
+
+/usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h:
+
+../3rdparty/wxWidgets/include/wx/fontenc.h:
 
 /usr/include/c++/9/bits/stl_iterator_base_funcs.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/time_t.h:
 
-/usr/include/wx-3.0/wx/debug.h:
-
-/usr/include/wx-3.0/wx/gtk/control.h:
-
-/usr/include/wx-3.0/wx/gtk/toplevel.h:
-
 /usr/include/c++/9/cwchar:
 
 /usr/include/c++/9/bits/range_access.h:
 
-/usr/include/wx-3.0/wx/vector.h:
-
 /usr/include/c++/9/cwctype:
+
+../3rdparty/wxWidgets/include/wx/unix/app.h:
+
+/usr/include/c++/9/bits/refwrap.h:
 
 /usr/include/c++/9/clocale:
 
+/usr/include/x86_64-linux-gnu/bits/types/sigval_t.h:
+
+/usr/include/x86_64-linux-gnu/c++/9/bits/c++locale.h:
+
+../3rdparty/wxWidgets/include/wx/language.h:
+
 /usr/include/x86_64-linux-gnu/asm/posix_types_64.h:
+
+../3rdparty/wxWidgets/include/wx/filefn.h:
 
 /usr/include/x86_64-linux-gnu/bits/cpu-set.h:
 
@@ -686,9 +699,11 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/types.h:
 
-/usr/include/c++/9/cstdint:
+/usr/include/x86_64-linux-gnu/bits/time64.h:
 
-/usr/include/wx-3.0/wx/defs.h:
+/usr/include/c++/9/bits/stl_vector.h:
+
+/usr/include/c++/9/cstdint:
 
 /usr/include/x86_64-linux-gnu/bits/typesizes.h:
 
@@ -700,11 +715,7 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
 
-/usr/include/wx-3.0/wx/unix/glx11.h:
-
 /usr/include/x86_64-linux-gnu/bits/endian.h:
-
-/usr/include/GL/glxext.h:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs.h:
 
@@ -714,8 +725,6 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
 
-/usr/include/x86_64-linux-gnu/sys/stat.h:
-
 /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
 
 /usr/include/c++/9/bits/stl_iterator.h:
@@ -724,79 +733,61 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/c++/9/bits/functexcept.h:
 
-/usr/include/wx-3.0/wx/imagtiff.h:
+../3rdparty/wxWidgets/include/wx/cursor.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h:
 
 /usr/include/c++/9/new:
 
-/usr/include/wx-3.0/wx/gdicmn.h:
-
 /usr/include/x86_64-linux-gnu/bits/wchar.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/dirent_ext.h:
 
 /usr/include/x86_64-linux-gnu/bits/local_lim.h:
 
-/usr/include/X11/Xosdefs.h:
-
-/usr/include/wx-3.0/wx/gtk/app.h:
-
 /usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h:
 
 ../src/main.cpp:
 
-/usr/include/wx-3.0/wx/meta/int2type.h:
-
 /usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
-
-/usr/include/c++/9/bits/stringfwd.h:
-
-/usr/include/wx-3.0/wx/cursor.h:
 
 /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h:
 
 /usr/include/c++/9/cmath:
 
+/usr/include/pthread.h:
+
+../3rdparty/wxWidgets/include/wx/gtk/font.h:
+
 /usr/include/c++/9/iosfwd:
 
 /usr/include/x86_64-linux-gnu/bits/types/locale_t.h:
 
-/usr/include/wx-3.0/wx/fontenc.h:
+/usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:
 
-/usr/include/wx-3.0/wx/generic/icon.h:
-
-/usr/include/wx-3.0/wx/iconbndl.h:
+../3rdparty/wxWidgets/include/wx/pen.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h:
 
 /usr/include/c++/9/ios:
 
-/usr/include/c++/9/bits/alloc_traits.h:
-
-/usr/include/c++/9/bits/basic_ios.tcc:
+../3rdparty/wxWidgets/include/wx/app.h:
 
 /usr/include/c++/9/math.h:
 
 /usr/include/x86_64-linux-gnu/c++/9/bits/atomic_word.h:
 
+../3rdparty/wxWidgets/include/wx/nonownedwnd.h:
+
 /usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
 
-/usr/include/X11/Xlib.h:
-
-/usr/include/x86_64-linux-gnu/bits/siginfo-arch.h:
-
-/usr/include/wx-3.0/wx/stringimpl.h:
-
-/usr/include/wx-3.0/wx/meta/movable.h:
-
 /usr/include/x86_64-linux-gnu/bits/mathcalls.h:
+
+../3rdparty/wxWidgets/include/wx/imagpng.h:
 
 /usr/include/c++/9/bits/concept_check.h:
 
 /usr/include/GL/gl.h:
-
-/usr/include/wx-3.0/wx/imagpnm.h:
 
 /usr/include/x86_64-linux-gnu/bits/floatn-common.h:
 
@@ -806,73 +797,75 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h:
 
-/usr/include/wx-3.0/wx/font.h:
+/usr/include/x86_64-linux-gnu/bits/unistd_ext.h:
+
+/usr/include/c++/9/cstdlib:
+
+/usr/include/c++/9/bits/stl_tempbuf.h:
 
 /usr/include/x86_64-linux-gnu/bits/sigaction.h:
 
 /usr/include/x86_64-linux-gnu/c++/9/bits/gthr-default.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h:
-
-/usr/include/wx-3.0/wx/event.h:
-
 /usr/include/x86_64-linux-gnu/bits/types/FILE.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
+
+../3rdparty/wxWidgets/include/wx/meta/convertible.h:
 
 /usr/include/c++/9/bits/char_traits.h:
 
 /usr/include/c++/9/bits/stl_pair.h:
 
-/usr/include/linux/stat.h:
+../3rdparty/wxWidgets/include/wx/control.h:
+
+../3rdparty/wxWidgets/include/wx/list.h:
 
 /usr/include/c++/9/bits/ptr_traits.h:
 
-/usr/include/wx-3.0/wx/clntdata.h:
-
 /usr/include/c++/9/initializer_list:
-
-/usr/include/X11/Xutil.h:
 
 /usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h:
-
-/usr/include/wx-3.0/wx/any.h:
+../3rdparty/wxWidgets/include/wx/imagpnm.h:
 
 /usr/include/x86_64-linux-gnu/c++/9/bits/gthr.h:
+
+../3rdparty/wxWidgets/include/wx/meta/pod.h:
 
 /usr/include/x86_64-linux-gnu/sys/cdefs.h:
 
 /usr/include/x86_64-linux-gnu/bits/sys_errlist.h:
 
-/usr/include/wx-3.0/wx/imagjpeg.h:
+../3rdparty/wxWidgets/include/wx/localedefs.h:
 
-/usr/include/wx-3.0/wx/unix/chkconf.h:
+../3rdparty/wxWidgets/include/wx/strvararg.h:
 
-/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+../3rdparty/wxWidgets/include/wx/flags.h:
+
+../3rdparty/wxWidgets/include/wx/image.h:
 
 /usr/include/c++/9/ext/new_allocator.h:
 
-/usr/include/c++/9/limits:
-
 /usr/include/c++/9/bits/cxxabi_forced.h:
 
-/usr/include/limits.h:
+/usr/include/c++/9/limits:
 
-/usr/include/wx-3.0/wx/memory.h:
+/usr/include/limits.h:
 
 /usr/include/x86_64-linux-gnu/bits/byteswap.h:
 
 /usr/include/x86_64-linux-gnu/bits/long-double.h:
 
+../3rdparty/wxWidgets/include/wx/types.h:
+
 /usr/include/c++/9/ostream:
 
-/usr/include/wx-3.0/wx/palette.h:
-
 /usr/include/x86_64-linux-gnu/sys/types.h:
+
+../3rdparty/wxWidgets/include/wx/iosfwrap.h:
 
 /usr/include/c++/9/iostream:
 
@@ -882,7 +875,7 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/x86_64-linux-gnu/sys/select.h:
 
-/usr/include/wx-3.0/wx/crt.h:
+../3rdparty/wxWidgets/include/wx/versioninfo.h:
 
 /usr/include/wchar.h:
 
@@ -890,11 +883,21 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/c++/9/bits/istream.tcc:
 
+/usr/include/stdc-predef.h:
+
+/usr/include/c++/9/bits/stl_iterator_base_types.h:
+
+/usr/include/x86_64-linux-gnu/bits/stat.h:
+
+/usr/include/c++/9/bits/ostream.tcc:
+
+../3rdparty/wxWidgets/include/wx/iconloc.h:
+
 /usr/include/x86_64-linux-gnu/c++/9/bits/cpu_defines.h:
 
-/usr/include/wx-3.0/wx/generic/accel.h:
-
 /usr/include/c++/9/debug/debug.h:
+
+../3rdparty/wxWidgets/include/wx/platform.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/clock_t.h:
 
@@ -904,19 +907,23 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/c++/9/bits/localefwd.h:
 
+../3rdparty/wxWidgets/include/wx/unix/chkconf.h:
+
 /usr/include/c++/9/exception:
 
-/usr/include/x86_64-linux-gnu/bits/types/siginfo_t.h:
+../3rdparty/wxWidgets/include/wx/wxcrtbase.h:
 
-/usr/include/wx-3.0/wx/translation.h:
+../3rdparty/wxWidgets/include/wx/init.h:
 
-/usr/include/c++/9/bits/exception_ptr.h:
-
-/usr/include/wx-3.0/wx/anystr.h:
+../3rdparty/wxWidgets/include/wx/strconv.h:
 
 /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
 
+../3rdparty/wxWidgets/include/wx/window.h:
+
 /usr/include/x86_64-linux-gnu/bits/types/struct_sigstack.h:
+
+../3rdparty/wxWidgets/include/wx/longlong.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h:
 
@@ -926,29 +933,23 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/c++/9/ext/numeric_traits.h:
 
-/usr/include/wx-3.0/wx/rtti.h:
-
 /usr/include/x86_64-linux-gnu/bits/struct_mutex.h:
 
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
 
 /usr/include/c++/9/bits/exception_defines.h:
 
+../3rdparty/wxWidgets/include/wx/generic/statusbr.h:
+
+../3rdparty/wxWidgets/include/wx/chkconf.h:
+
 /usr/include/x86_64-linux-gnu/bits/fp-logb.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/__sigval_t.h:
-
-/usr/include/c++/9/bits/cxxabi_init_exception.h:
-
 /usr/include/c++/9/cstdio:
-
-/usr/include/c++/9/iterator:
 
 /usr/include/x86_64-linux-gnu/bits/timesize.h:
 
 /usr/include/c++/9/typeinfo:
-
-/usr/include/wx-3.0/wx/cmdargs.h:
 
 /usr/include/c++/9/backward/binders.h:
 
@@ -956,13 +957,19 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/c++/9/bits/allocator.h:
 
+/usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h:
+
+../3rdparty/wxWidgets/include/wx/math.h:
+
 /usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
 
 /usr/include/x86_64-linux-gnu/bits/timex.h:
 
-/usr/include/inttypes.h:
-
 /usr/include/c++/9/bits/nested_exception.h:
+
+../3rdparty/wxWidgets/include/wx/dlimpexp.h:
+
+../3rdparty/wxWidgets/include/wx/debug.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
 
@@ -970,13 +977,21 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/c++/9/ext/type_traits.h:
 
+../3rdparty/wxWidgets/include/wx/region.h:
+
 /usr/include/x86_64-linux-gnu/bits/signum-generic.h:
 
 /usr/include/c++/9/bits/std_abs.h:
 
+../3rdparty/wxWidgets/include/wx/scopedptr.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+../3rdparty/wxWidgets/include/wx/checkeddelete.h:
+
 /usr/include/c++/9/type_traits:
 
-/usr/include/wx-3.0/wx/filefn.h:
+/usr/include/c++/9/bits/stl_algo.h:
 
 /usr/include/c++/9/cctype:
 
@@ -988,11 +1003,13 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/c++/9/bits/basic_ios.h:
 
+../3rdparty/wxWidgets/include/wx/unichar.h:
+
+../3rdparty/wxWidgets/include/wx/afterstd.h:
+
 /usr/include/x86_64-linux-gnu/bits/time.h:
 
 /usr/include/x86_64-linux-gnu/bits/select.h:
-
-/usr/include/wx-3.0/wx/gtk/window.h:
 
 /usr/include/asm-generic/bitsperlong.h:
 
@@ -1000,25 +1017,13 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h:
 
-/usr/include/wx-3.0/wx/platinfo.h:
-
 /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
 
 /usr/include/stdio.h:
 
-/usr/include/wx-3.0/wx/versioninfo.h:
-
 /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:
 
-/usr/include/wx-3.0/wx/app.h:
-
-/usr/include/x86_64-linux-gnu/bits/sigthread.h:
-
-/usr/include/wx-3.0/wx/hashmap.h:
-
 /usr/include/c++/9/cerrno:
-
-/usr/include/wx-3.0/wx/xti2.h:
 
 /usr/include/x86_64-linux-gnu/bits/errno.h:
 
@@ -1026,31 +1031,43 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/wctype.h:
 
+/usr/include/c++/9/bits/uses_allocator.h:
+
 /usr/include/linux/errno.h:
+
+../3rdparty/wxWidgets/include/wx/generic/logg.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h:
 
 /usr/include/asm-generic/errno.h:
 
+../3rdparty/wxWidgets/include/wx/gtk/cursor.h:
+
+../3rdparty/wxWidgets/include/wx/memory.h:
+
+../3rdparty/wxWidgets/include/wx/meta/removeref.h:
+
 /usr/include/c++/9/bits/basic_string.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/error_t.h:
+
+../3rdparty/wxWidgets/include/wx/imagiff.h:
 
 /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h:
 
 /usr/include/c++/9/bits/basic_string.tcc:
 
+/usr/include/x86_64-linux-gnu/bits/siginfo-arch.h:
+
+/usr/include/c++/9/utility:
+
+../3rdparty/wxWidgets/include/wx/frame.h:
+
 /usr/include/asm-generic/posix_types.h:
 
 /usr/include/c++/9/system_error:
 
-/usr/include/wx-3.0/wx/wxcrtvararg.h:
-
 /usr/include/x86_64-linux-gnu/c++/9/bits/error_constants.h:
-
-/usr/include/unistd.h:
-
-/usr/include/x86_64-linux-gnu/bits/statx.h:
 
 /usr/include/x86_64-linux-gnu/bits/statx-generic.h:
 
@@ -1064,91 +1081,55 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/c++/9/bits/streambuf_iterator.h:
 
-/usr/include/X11/keysymdef.h:
-
-/usr/include/wx-3.0/wx/weakref.h:
-
 /usr/include/c++/9/istream:
 
-/usr/include/stdc-predef.h:
+../3rdparty/wxWidgets/include/wx/event.h:
 
-/usr/include/c++/9/bits/stl_iterator_base_types.h:
+../3rdparty/wxWidgets/include/wx/intl.h:
 
-/usr/include/wx-3.0/wx/platform.h:
+../3rdparty/wxWidgets/include/wx/defs.h:
 
-/usr/include/wx-3.0/wx/compiler.h:
+../3rdparty/wxWidgets/include/wx/gtk/chkconf.h:
 
-/usr/lib/x86_64-linux-gnu/wx/include/gtk3-unicode-3.0/wx/setup.h:
+../3rdparty/wxWidgets/include/wx/compiler.h:
 
-/usr/include/wx-3.0/wx/chkconf.h:
+../3rdparty/wxWidgets/include/wx/version.h:
 
-/usr/include/wx-3.0/wx/gtk/chkconf.h:
+/usr/include/x86_64-linux-gnu/bits/sigevent-consts.h:
 
-/usr/include/wx-3.0/wx/version.h:
-
-/usr/include/wx-3.0/wx/cpp.h:
-
-/usr/include/wx-3.0/wx/stream.h:
+../3rdparty/wxWidgets/include/wx/cpp.h:
 
 /usr/include/assert.h:
-
-/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
-
-/usr/include/x86_64-linux-gnu/bits/xopen_lim.h:
-
-/usr/include/c++/9/bits/ostream.tcc:
-
-/usr/include/x86_64-linux-gnu/bits/stat.h:
-
-/usr/include/x86_64-linux-gnu/bits/uio_lim.h:
-
-/usr/include/wx-3.0/wx/object.h:
-
-/usr/include/pthread.h:
-
-/usr/include/wx-3.0/wx/string.h:
-
-/usr/include/string.h:
 
 /usr/include/c++/9/string:
 
 /usr/lib/gcc/x86_64-linux-gnu/9/include/syslimits.h:
 
-/usr/include/wx-3.0/wx/wxcrtbase.h:
+/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
 
-/usr/include/wx-3.0/wx/strconv.h:
+/usr/include/x86_64-linux-gnu/bits/xopen_lim.h:
 
-/usr/include/c++/9/ext/atomicity.h:
+/usr/include/c++/9/bits/invoke.h:
 
-/usr/include/wx-3.0/wx/strvararg.h:
+/usr/include/c++/9/functional:
 
-/usr/include/wx-3.0/wx/unichar.h:
+../3rdparty/wxWidgets/include/wx/gtk/nonownedwnd.h:
+
+/usr/include/x86_64-linux-gnu/bits/uio_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/siginfo_t.h:
+
+/usr/include/c++/9/bits/exception_ptr.h:
+
+../3rdparty/wxWidgets/include/wx/chartype.h:
+
+/usr/include/x86_64-linux-gnu/sys/stat.h:
+
+../3rdparty/wxWidgets/include/wx/features.h:
 
 /usr/include/x86_64-linux-gnu/bits/endianness.h:
 
-/usr/include/wx-3.0/wx/beforestd.h:
-
-/usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:
-
-/usr/include/wx-3.0/wx/afterstd.h:
-
-/usr/include/wx-3.0/wx/stringops.h:
-
-/usr/include/asm-generic/errno-base.h:
-
-/usr/include/wx-3.0/wx/iosfwrap.h:
-
-/usr/include/wx-3.0/wx/wxcrt.h:
-
-/usr/include/wx-3.0/wx/list.h:
-
-/usr/include/x86_64-linux-gnu/bits/unistd_ext.h:
-
-/usr/include/c++/9/cstdlib:
-
-/usr/include/wx-3.0/wx/msgout.h:
-
-/usr/include/wx-3.0/wx/xti.h:
+../3rdparty/wxWidgets/include/wx/object.h:
 
 /usr/include/x86_64-linux-gnu/bits/getopt_posix.h:
 
@@ -1156,21 +1137,81 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/time.h:
 
-/usr/include/wx-3.0/wx/flags.h:
+../3rdparty/wxWidgets/include/wx/string.h:
 
-/usr/include/wx-3.0/wx/scopeguard.h:
+../3rdparty/wxWidgets/include/wx/tracker.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/sigval_t.h:
+/usr/include/string.h:
 
-/usr/include/x86_64-linux-gnu/c++/9/bits/c++locale.h:
+/usr/include/c++/9/ext/atomicity.h:
 
-/usr/include/wx-3.0/wx/except.h:
+../3rdparty/wxWidgets/include/wx/stringimpl.h:
 
-/usr/include/x86_64-linux-gnu/bits/time64.h:
+/usr/include/c++/9/bits/stringfwd.h:
 
-/usr/include/wx-3.0/wx/meta/pod.h:
+../3rdparty/wxWidgets/include/wx/beforestd.h:
+
+../3rdparty/wxWidgets/include/wx/mousestate.h:
+
+/usr/include/c++/9/algorithm:
+
+/usr/include/x86_64-linux-gnu/bits/types/struct_statx.h:
+
+/usr/include/c++/9/bits/stl_relops.h:
+
+/usr/include/c++/9/bits/alloc_traits.h:
+
+/usr/include/c++/9/bits/basic_ios.tcc:
+
+/usr/include/c++/9/bits/stl_heap.h:
+
+/usr/include/c++/9/bits/uniform_int_dist.h:
+
+../3rdparty/wxWidgets/include/wx/stringops.h:
+
+/usr/include/c++/9/bits/stl_function.h:
+
+/usr/include/c++/9/tuple:
+
+../3rdparty/wxWidgets/include/wx/gdicmn.h:
+
+/usr/include/c++/9/array:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/c++/9/bits/std_function.h:
 
 /usr/include/x86_64-linux-gnu/bits/math-vector.h:
+
+../3rdparty/wxWidgets/include/wx/accel.h:
+
+../3rdparty/wxWidgets/include/wx/msgout.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
+
+../3rdparty/wxWidgets/include/wx/xti.h:
+
+../3rdparty/wxWidgets/include/wx/imagbmp.h:
+
+../3rdparty/wxWidgets/include/wx/rtti.h:
+
+/usr/include/c++/9/bits/stl_uninitialized.h:
+
+../3rdparty/wxWidgets/include/wx/xti2.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__sigval_t.h:
+
+/usr/include/c++/9/bits/stl_construct.h:
+
+/usr/include/c++/9/bits/cxxabi_init_exception.h:
+
+../3rdparty/wxWidgets/include/wx/clntdata.h:
+
+../3rdparty/wxWidgets/include/wx/hashmap.h:
+
+../3rdparty/wxWidgets/include/wx/translation.h:
+
+../3rdparty/wxWidgets/include/wx/wxcrt.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:
 
@@ -1178,24 +1219,22 @@ CMakeFiles/wxTest.dir/src/main.cpp.o: ../src/main.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
 
-/usr/include/wx-3.0/wx/windowid.h:
-
 /usr/include/x86_64-linux-gnu/bits/fp-fast.h:
-
-/usr/include/wx-3.0/wx/meta/if.h:
-
-/usr/include/x86_64-linux-gnu/bits/iscanonical.h:
-
-/usr/include/wx-3.0/wx/gtk/cursor.h:
 
 /usr/include/linux/falloc.h:
 
 /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h:
 
-/usr/include/wx-3.0/wx/gdiobj.h:
+/usr/include/x86_64-linux-gnu/bits/iscanonical.h:
 
-/usr/include/wx-3.0/wx/intl.h:
+../3rdparty/wxWidgets/include/wx/iconbndl.h:
 
-/usr/include/wx-3.0/wx/arrstr.h:
+../3rdparty/wxWidgets/include/wx/vector.h:
 
-/usr/include/c++/9/bits/stream_iterator.h:
+/usr/include/x86_64-linux-gnu/bits/fcntl.h:
+
+/usr/include/c++/9/bits/algorithmfwd.h:
+
+../3rdparty/wxWidgets/include/wx/scopeguard.h:
+
+../3rdparty/wxWidgets/include/wx/except.h:

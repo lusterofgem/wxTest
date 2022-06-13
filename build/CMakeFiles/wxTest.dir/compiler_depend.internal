@@ -173,19 +173,20 @@ CMakeFiles/wxTest.dir/src/main.cpp.o
  /usr/include/c++/9/bits/ostream.tcc
  /usr/include/c++/9/istream
  /usr/include/c++/9/bits/istream.tcc
- /usr/include/wx-3.0/wx/app.h
- /usr/include/wx-3.0/wx/event.h
- /usr/include/wx-3.0/wx/defs.h
- /usr/include/wx-3.0/wx/platform.h
- /usr/include/wx-3.0/wx/compiler.h
- /usr/lib/x86_64-linux-gnu/wx/include/gtk3-unicode-3.0/wx/setup.h
- /usr/include/wx-3.0/wx/chkconf.h
- /usr/include/wx-3.0/wx/gtk/chkconf.h
- /usr/include/wx-3.0/wx/unix/chkconf.h
- /usr/include/wx-3.0/wx/version.h
- /usr/include/wx-3.0/wx/cpp.h
- /usr/include/wx-3.0/wx/dlimpexp.h
- /usr/include/wx-3.0/wx/debug.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/app.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/event.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/defs.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/platform.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/compiler.h
+ /home/kde/Desktop/wxTest/build/lib/wx/include/gtk3-unicode-3.1/wx/setup.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/chkconf.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/gtk/chkconf.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/unix/chkconf.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/version.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/cpp.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/dlimpexp.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/types.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/debug.h
  /usr/include/assert.h
  /usr/lib/gcc/x86_64-linux-gnu/9/include/limits.h
  /usr/lib/gcc/x86_64-linux-gnu/9/include/syslimits.h
@@ -196,45 +197,51 @@ CMakeFiles/wxTest.dir/src/main.cpp.o
  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h
  /usr/include/x86_64-linux-gnu/bits/xopen_lim.h
  /usr/include/x86_64-linux-gnu/bits/uio_lim.h
- /usr/include/wx-3.0/wx/chartype.h
- /usr/include/wx-3.0/wx/windowid.h
- /usr/include/wx-3.0/wx/features.h
- /usr/include/wx-3.0/wx/object.h
- /usr/include/wx-3.0/wx/memory.h
- /usr/include/wx-3.0/wx/string.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/chartype.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/features.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/object.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/memory.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/string.h
  /usr/include/string.h
  /usr/include/strings.h
  /usr/include/c++/9/stdlib.h
- /usr/include/wx-3.0/wx/wxcrtbase.h
- /usr/include/wx-3.0/wx/strvararg.h
- /usr/include/wx-3.0/wx/strconv.h
- /usr/include/wx-3.0/wx/buffer.h
- /usr/include/wx-3.0/wx/fontenc.h
- /usr/include/wx-3.0/wx/unichar.h
- /usr/include/wx-3.0/wx/stringimpl.h
- /usr/include/wx-3.0/wx/beforestd.h
- /usr/include/wx-3.0/wx/afterstd.h
- /usr/include/wx-3.0/wx/stringops.h
- /usr/include/wx-3.0/wx/iosfwrap.h
- /usr/include/wx-3.0/wx/crt.h
- /usr/include/wx-3.0/wx/wxcrt.h
- /usr/include/wx-3.0/wx/wxcrtvararg.h
- /usr/include/wx-3.0/wx/msgout.h
- /usr/include/wx-3.0/wx/xti.h
- /usr/include/wx-3.0/wx/rtti.h
- /usr/include/wx-3.0/wx/flags.h
- /usr/include/wx-3.0/wx/xti2.h
- /usr/include/wx-3.0/wx/clntdata.h
- /usr/include/wx-3.0/wx/hashmap.h
- /usr/include/wx-3.0/wx/gdicmn.h
- /usr/include/wx-3.0/wx/list.h
- /usr/include/wx-3.0/wx/vector.h
- /usr/include/wx-3.0/wx/scopeguard.h
- /usr/include/wx-3.0/wx/except.h
- /usr/include/wx-3.0/wx/meta/movable.h
- /usr/include/wx-3.0/wx/meta/pod.h
- /usr/include/wx-3.0/wx/meta/if.h
- /usr/include/wx-3.0/wx/math.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/wxcrtbase.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/strvararg.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/strconv.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/buffer.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/fontenc.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/unichar.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/stringimpl.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/beforestd.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/afterstd.h
+ /usr/include/c++/9/algorithm
+ /usr/include/c++/9/utility
+ /usr/include/c++/9/bits/stl_relops.h
+ /usr/include/c++/9/bits/stl_algo.h
+ /usr/include/c++/9/bits/algorithmfwd.h
+ /usr/include/c++/9/bits/stl_heap.h
+ /usr/include/c++/9/bits/stl_tempbuf.h
+ /usr/include/c++/9/bits/stl_construct.h
+ /usr/include/c++/9/bits/uniform_int_dist.h
+ /usr/include/c++/9/limits
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/stringops.h
+ /usr/include/c++/9/functional
+ /usr/include/c++/9/tuple
+ /usr/include/c++/9/array
+ /usr/include/c++/9/bits/uses_allocator.h
+ /usr/include/c++/9/bits/invoke.h
+ /usr/include/c++/9/bits/refwrap.h
+ /usr/include/c++/9/bits/std_function.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/iosfwrap.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/msgout.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/xti.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/rtti.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/flags.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/xti2.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/clntdata.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/hashmap.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/wxcrt.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/math.h
  /usr/include/c++/9/math.h
  /usr/include/c++/9/cmath
  /usr/include/math.h
@@ -247,14 +254,28 @@ CMakeFiles/wxTest.dir/src/main.cpp.o
  /usr/include/x86_64-linux-gnu/bits/mathcalls.h
  /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h
  /usr/include/x86_64-linux-gnu/bits/iscanonical.h
- /usr/include/wx-3.0/wx/cursor.h
- /usr/include/wx-3.0/wx/gtk/cursor.h
- /usr/include/wx-3.0/wx/gdiobj.h
- /usr/include/wx-3.0/wx/utils.h
- /usr/include/wx-3.0/wx/filefn.h
- /usr/include/wx-3.0/wx/arrstr.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/gdicmn.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/list.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/vector.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/scopeguard.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/except.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/meta/movable.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/meta/pod.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/meta/if.h
  /usr/include/c++/9/iterator
  /usr/include/c++/9/bits/stream_iterator.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/cursor.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/gdiobj.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/gtk/cursor.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/utils.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/filefn.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/arrstr.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/dynarray.h
+ /usr/include/c++/9/vector
+ /usr/include/c++/9/bits/stl_uninitialized.h
+ /usr/include/c++/9/bits/stl_vector.h
+ /usr/include/c++/9/bits/stl_bvector.h
+ /usr/include/c++/9/bits/vector.tcc
  /usr/include/x86_64-linux-gnu/sys/stat.h
  /usr/include/x86_64-linux-gnu/bits/stat.h
  /usr/include/x86_64-linux-gnu/bits/statx.h
@@ -288,35 +309,35 @@ CMakeFiles/wxTest.dir/src/main.cpp.o
  /usr/include/x86_64-linux-gnu/bits/fcntl-linux.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h
  /usr/include/linux/falloc.h
- /usr/include/wx-3.0/wx/versioninfo.h
- /usr/include/wx-3.0/wx/meta/implicitconversion.h
- /usr/include/wx-3.0/wx/mousestate.h
- /usr/include/wx-3.0/wx/kbdstate.h
- /usr/include/wx-3.0/wx/longlong.h
- /usr/include/c++/9/limits
- /usr/include/wx-3.0/wx/platinfo.h
- /usr/include/wx-3.0/wx/dynarray.h
- /usr/include/wx-3.0/wx/thread.h
- /usr/include/wx-3.0/wx/tracker.h
- /usr/include/wx-3.0/wx/typeinfo.h
- /usr/include/wx-3.0/wx/any.h
- /usr/include/wx-3.0/wx/datetime.h
- /usr/include/wx-3.0/wx/anystr.h
- /usr/include/wx-3.0/wx/variant.h
- /usr/include/wx-3.0/wx/meta/convertible.h
- /usr/include/wx-3.0/wx/meta/removeref.h
- /usr/include/wx-3.0/wx/eventfilter.h
- /usr/include/wx-3.0/wx/build.h
- /usr/include/wx-3.0/wx/cmdargs.h
- /usr/include/wx-3.0/wx/init.h
- /usr/include/wx-3.0/wx/intl.h
- /usr/include/wx-3.0/wx/translation.h
- /usr/include/wx-3.0/wx/language.h
- /usr/include/wx-3.0/wx/scopedptr.h
- /usr/include/wx-3.0/wx/checkeddelete.h
- /usr/include/wx-3.0/wx/log.h
- /usr/include/wx-3.0/wx/generic/logg.h
- /usr/include/wx-3.0/wx/unix/app.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/versioninfo.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/meta/implicitconversion.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/mousestate.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/kbdstate.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/longlong.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/platinfo.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/thread.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/tracker.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/typeinfo.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/any.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/datetime.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/anystr.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/variant.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/meta/convertible.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/meta/removeref.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/eventfilter.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/build.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/cmdargs.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/init.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/intl.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/localedefs.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/translation.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/language.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/scopedptr.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/checkeddelete.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/log.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/time.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/generic/logg.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/unix/app.h
  /usr/include/signal.h
  /usr/include/x86_64-linux-gnu/bits/signum.h
  /usr/include/x86_64-linux-gnu/bits/signum-generic.h
@@ -338,67 +359,59 @@ CMakeFiles/wxTest.dir/src/main.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/struct_sigstack.h
  /usr/include/x86_64-linux-gnu/bits/sigthread.h
  /usr/include/x86_64-linux-gnu/bits/signal_ext.h
- /usr/include/wx-3.0/wx/gtk/app.h
- /usr/include/wx-3.0/wx/frame.h
- /usr/include/wx-3.0/wx/toplevel.h
- /usr/include/wx-3.0/wx/nonownedwnd.h
- /usr/include/wx-3.0/wx/window.h
- /usr/include/wx-3.0/wx/font.h
- /usr/include/wx-3.0/wx/gtk/font.h
- /usr/include/wx-3.0/wx/colour.h
- /usr/include/wx-3.0/wx/gtk/colour.h
- /usr/include/wx-3.0/wx/region.h
- /usr/include/wx-3.0/wx/gtk/region.h
- /usr/include/wx-3.0/wx/validate.h
- /usr/include/wx-3.0/wx/palette.h
- /usr/include/wx-3.0/wx/generic/paletteg.h
- /usr/include/wx-3.0/wx/accel.h
- /usr/include/wx-3.0/wx/gtk/accel.h
- /usr/include/wx-3.0/wx/generic/accel.h
- /usr/include/wx-3.0/wx/gtk/window.h
- /usr/include/wx-3.0/wx/gtk/nonownedwnd.h
- /usr/include/wx-3.0/wx/iconbndl.h
- /usr/include/wx-3.0/wx/icon.h
- /usr/include/wx-3.0/wx/iconloc.h
- /usr/include/wx-3.0/wx/generic/icon.h
- /usr/include/wx-3.0/wx/bitmap.h
- /usr/include/wx-3.0/wx/image.h
- /usr/include/wx-3.0/wx/stream.h
- /usr/include/wx-3.0/wx/imagbmp.h
- /usr/include/wx-3.0/wx/imagpng.h
- /usr/include/wx-3.0/wx/imaggif.h
- /usr/include/wx-3.0/wx/imagpcx.h
- /usr/include/wx-3.0/wx/imagjpeg.h
- /usr/include/wx-3.0/wx/imagtga.h
- /usr/include/wx-3.0/wx/imagtiff.h
- /usr/include/wx-3.0/wx/imagpnm.h
- /usr/include/wx-3.0/wx/imagxpm.h
- /usr/include/wx-3.0/wx/imagiff.h
- /usr/include/wx-3.0/wx/gtk/bitmap.h
- /usr/include/wx-3.0/wx/weakref.h
- /usr/include/wx-3.0/wx/meta/int2type.h
- /usr/include/wx-3.0/wx/gtk/toplevel.h
- /usr/include/wx-3.0/wx/statusbr.h
- /usr/include/wx-3.0/wx/control.h
- /usr/include/wx-3.0/wx/gtk/control.h
- /usr/include/wx-3.0/wx/generic/statusbr.h
- /usr/include/wx-3.0/wx/pen.h
- /usr/include/wx-3.0/wx/gtk/pen.h
- /usr/include/wx-3.0/wx/gtk/frame.h
- /usr/include/wx-3.0/wx/glcanvas.h
- /usr/include/wx-3.0/wx/gtk/glcanvas.h
- /usr/include/wx-3.0/wx/unix/glx11.h
- /usr/include/GL/glx.h
- /usr/include/X11/Xlib.h
- /usr/include/X11/X.h
- /usr/include/X11/Xfuncproto.h
- /usr/include/X11/Xosdefs.h
- /usr/include/X11/Xutil.h
- /usr/include/X11/keysym.h
- /usr/include/X11/keysymdef.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/gtk/app.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/frame.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/toplevel.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/nonownedwnd.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/window.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/font.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/gtk/font.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/colour.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/gtk/colour.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/region.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/gtk/region.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/validate.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/windowid.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/palette.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/generic/paletteg.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/accel.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/gtk/accel.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/generic/accel.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/gtk/window.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/gtk/nonownedwnd.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/iconbndl.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/icon.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/iconloc.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/generic/icon.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/bitmap.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/image.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/stream.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/imagbmp.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/imagpng.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/imaggif.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/imagpcx.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/imagjpeg.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/imagtga.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/imagtiff.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/imagpnm.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/imagxpm.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/imagiff.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/gtk/bitmap.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/weakref.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/meta/int2type.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/gtk/toplevel.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/statusbr.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/control.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/gtk/control.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/generic/statusbr.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/pen.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/peninfobase.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/gtk/pen.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/gtk/frame.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/glcanvas.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/gtk/glcanvas.h
+ /home/kde/Desktop/wxTest/3rdparty/wxWidgets/include/wx/unix/glegl.h
  /usr/include/GL/gl.h
  /usr/include/GL/glext.h
  /usr/include/KHR/khrplatform.h
- /usr/include/GL/glxext.h
- /usr/include/inttypes.h
 

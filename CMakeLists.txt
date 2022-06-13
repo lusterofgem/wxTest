@@ -1,9 +1,8 @@
 cmake_minimum_required(VERSION 3.22.1)
 project(wxTest)
 
-find_package(wxWidgets REQUIRED COMPONENTS core base gl)
 add_executable(wxTest src/main.cpp)
 
 # wxWidgets
-include(${wxWidgets_USE_FILE})
-target_link_libraries(wxTest ${wxWidgets_LIBRARIES})
+add_subdirectory(3rdparty/wxWidgets)
+target_link_libraries(wxTest wx::base wx::core wx::gl)
