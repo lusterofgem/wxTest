@@ -8,7 +8,7 @@ target_include_directories(wxTest PRIVATE include)
 target_sources(
     wxTest
         PRIVATE src/main.cpp
-        PRIVATE src/TestGLContext.cpp
+        # PRIVATE src/TestGLContext.cpp
 )
 
 # wxWidgets
