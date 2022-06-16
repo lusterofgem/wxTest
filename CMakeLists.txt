@@ -19,6 +19,3 @@ target_link_libraries(
         PRIVATE wx::core
         PRIVATE wx::gl
 )
-
-# glew
-# add_subdirectory(glew)
