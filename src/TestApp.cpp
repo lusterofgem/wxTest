@@ -1,11 +1,17 @@
-#include <wx/frame.h>
-
 #include "TestApp.h"
 
 bool TestApp::OnInit()
 {
-    wxFrame *mainFrame = new wxFrame(nullptr, wxID_ANY, "wxTest");
-    
+    mainFrame = new wxFrame(nullptr, wxID_ANY, "wxTest");
+    mainFrameSizer = new wxBoxSizer(wxVERTICAL);
+    glCanvas = new GLCanvas(mainFrame);
+
+    // mainFrame
+    mainFrame->SetSizer(mainFrameSizer);
+
+    // mainFrameSizer
+    mainFrameSizer->Add(glCanvas);
+
     mainFrame->Show();
 
     return true;
