@@ -1,3 +1,0 @@
-/home/kde/Desktop/wxTest/release/CMakeFiles/wxTest.dir
-/home/kde/Desktop/wxTest/release/CMakeFiles/edit_cache.dir
-/home/kde/Desktop/wxTest/release/CMakeFiles/rebuild_cache.dir

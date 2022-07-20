@@ -2,17 +2,12 @@
 
 bool TestApp::OnInit()
 {
-    mainFrame = new wxFrame(nullptr, wxID_ANY, "wxTest");
-    mainFrameSizer = new wxBoxSizer(wxVERTICAL);
-    glCanvas = new GLCanvas(mainFrame);
+    // mainFrame = new wxFrame(nullptr, wxID_ANY, "wxTest");
+    // mainFrameSizer = new wxBoxSizer(wxVERTICAL);
 
-    // mainFrame
-    mainFrame->SetSizer(mainFrameSizer);
-
-    // mainFrameSizer
-    mainFrameSizer->Add(glCanvas);
-
-    mainFrame->Show();
+    // // mainFrame
+    // mainFrame->SetSizer(mainFrameSizer);
+    // mainFrame->Show();
 
     return true;
 }
