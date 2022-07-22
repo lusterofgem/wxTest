@@ -12,6 +12,6 @@ target_sources(
 )
 
 # wxWidgets
-find_package(wxWidgets REQUIRED COMPONENTS net core base)
+find_package(wxWidgets REQUIRED gl core base OPTIONAL_COMPONENTS net)
 include(${wxWidgets_USE_FILE})
 target_link_libraries(${PROJECT_NAME} PRIVATE ${wxWidgets_LIBRARIES})
