@@ -2,7 +2,6 @@ cmake_minimum_required(VERSION 3.22.1)
 project(wxTest)
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-set(CMAKE_CXX_COMPILER_TARGET x86_64-pc-windows-gnu)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 add_executable(wxTest)
