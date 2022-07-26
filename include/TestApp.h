@@ -9,8 +9,8 @@
 class TestApp : public wxApp
 {
     wxFrame *mainFrame;
-    wxBoxSizer *mainFrameSizer;
-    wxButton *testButton;
+    wxGridSizer *mainFrameSizer;
+    wxButton *button[9];
 
 public:
     virtual bool OnInit();

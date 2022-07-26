@@ -13,7 +13,7 @@ target_sources(
     PUBLIC src/TestApp.cpp
 )
 
-# static c++  
+# static c++
 target_link_libraries(${PROJECT_NAME} PUBLIC -static-libstdc++)
 # static gcc
 target_link_libraries(${PROJECT_NAME} PUBLIC -static-libgcc)
